@@ -1,0 +1,10 @@
+Manzana 2.5
+Platano 2.50
+Mandarina 5.00
+Frutilla 1.00
+Almendras 0.40
+Toronja 5.00
+Papaya 7.50
+Limon 2.50
+Tomate 1.00
+Naranja 1

@@ -1,0 +1,19 @@
+Nombre: Eduardo
+Edad: 18
+Promedio: 9.5
+
+Nombre: Jose
+Edad: 17
+Promedio: 5.9
+
+Nombre: Andres
+Edad: 16
+Promedio: 10
+
+Nombre: Luis
+Edad: 18
+Promedio: 9.9
+
+Nombre: Rodrigo
+Edad: 18
+Promedio: 6.5
